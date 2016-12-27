@@ -16,6 +16,9 @@
       Created: 24/12/2016
       By: Cameron Stewart, cstewart000@gmail.com
 
+      Change Log:
+        27/12/2016 - added tap, double tap and held press to touch sensor response.
+
 
       https://github.com/cstewart000/ArduinoCapacitiveTouchMoodLamp
 */
